@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "759370535899",
+    "project_id": "hallochat-5b597",
+    "storage_bucket": "hallochat-5b597.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:759370535899:android:5ed61945519c9421d78dfe",
+        "android_client_info": {
+          "package_name": "com.aangps01.hallochat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "759370535899-v15src99sjd6kfrsr0173j7t1635pjrb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCs9dCPOVtl8zP_HlVQ1ZoZh-LUiNSDeJM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "759370535899-v15src99sjd6kfrsr0173j7t1635pjrb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
